@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: blue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+}
+
+.score {
+    color: red;
+    text-align: center;
+    background-color: black;
+    height: 55px;
+    font-size: 45px; 
+    border-radius: 5px; 
+    font-family: digital-clock-font;
+}
+
+button {
+ background-color: transparent;   
+ border-color: white;
+ color: white;
+ border-radius: 5px
+}
